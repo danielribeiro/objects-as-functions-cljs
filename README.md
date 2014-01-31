@@ -1,0 +1,2 @@
+objects-as-functions-cljs
+=========================
