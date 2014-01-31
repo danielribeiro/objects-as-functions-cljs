@@ -1,2 +1,3 @@
-objects-as-functions-cljs
-=========================
+# objects-as-functions-cljs
+
+WIP
